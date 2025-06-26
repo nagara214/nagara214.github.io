@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at ShanghaiTech University, majoring in Computer Science and Technology. My current research interests are **multimodal learning** and **large-scale models** (foundation models, large language models). I focus on computer vision, vision-language understanding, optimization for deep networks, and model robustness.
-
-- **Email:** weizhx2022@shanghaitech.edu.cn
-- **GitHub:** [nagara214](https://github.com/nagara214)
-- **Location:** Shanghai, China
+I am an undergraduate student at ShanghaiTech University (2022-2026), majoring in Computer Science and Technology. My current research interests are multimodal learning, large models, etc.
 
 <!-- Google Scholar badge -->
 <!--
@@ -31,10 +27,6 @@ You can enable your scholar badge here if you have a scholar profile.
 </a>
 -->
 
-# 🔥 News
-
-- *2025.06*: Our work on augmenting moment retrieval and weakly-supervised affordance grounding was accepted by ICCV 2025!
-- *2025.02*: Started as a Teaching Assistant for Artificial Intelligence at ShanghaiTech University.
 
 # 📝 Publications
 
@@ -43,9 +35,8 @@ You can enable your scholar badge here if you have a scholar profile.
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
 Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†  
-[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)  
 *International Conference on Computer Vision (ICCV), 2025*  
-A novel residual learning framework for moment retrieval, introducing Splice-and-Boost augmentation and dual-path distillation to enable superior boundary localization and semantic discrimination without external data.
+
 
 </div>
 </div>
