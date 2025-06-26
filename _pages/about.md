@@ -37,7 +37,7 @@ You can enable your scholar badge here if you have a scholar profile.
 <div class='paper-box-text' markdown="1">
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
-** Zhengxuan Wei\* **, Jiajin Tang\*, Sibei Yang†  
+**Zhengxuan Wei**\*, Jiajin Tang\*, Sibei Yang†  
 
 </div>
 </div>
@@ -46,7 +46,7 @@ You can enable your scholar badge here if you have a scholar profile.
 <div class='paper-box-text' markdown="1">
 
 **Closed-Loop Transfer for Weakly-supervised Affordance Grounding**   
-Jiajin Tang\*, ** Zhengxuan Wei\* **, Ge Zheng, Sibei Yang†   
+Jiajin Tang\*, **Zhengxuan Wei**\*, Ge Zheng, Sibei Yang†   
 *ICCV 2025*
 
 </div>
@@ -56,7 +56,7 @@ Jiajin Tang\*, ** Zhengxuan Wei\* **, Ge Zheng, Sibei Yang†
 <div class='paper-box-text' markdown="1">
 
 **Sim-DETR: Unlock DETR for Temporal Sentence Grounding**   
-Jiajin Tang\*, ** Zhengxuan Wei\* **, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†   
+Jiajin Tang\*, **Zhengxuan Wei**\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†   
 
 </div>
 </div>
