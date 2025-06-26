@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at ShanghaiTech University (2022-2026), majoring in Computer Science and Technology. My current research interests are multimodal learning, large models, etc.
+I am an undergraduate student at ShanghaiTech University (2022-2026), majoring in Computer Science and Technology. My current research interests are multimodal learning, large models, etc. I am very fortunate to be advised by Prof. Sibei Yang.
+
+You can find my CV here: [CV](assets/CV.pdf).
 
 <!-- Google Scholar badge -->
 <!--
@@ -35,7 +37,7 @@ You can enable your scholar badge here if you have a scholar profile.
 <div class='paper-box-text' markdown="1">
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
-Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†  
+**Zhengxuan Wei\* **, Jiajin Tang\*, Sibei Yang†  
 
 </div>
 </div>
@@ -44,7 +46,7 @@ Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†
 <div class='paper-box-text' markdown="1">
 
 **Closed-Loop Transfer for Weakly-supervised Affordance Grounding**   
-Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†   
+Jiajin Tang\*, **Zhengxuan Wei\* **, Ge Zheng, Sibei Yang†   
 *ICCV 2025*
 
 </div>
@@ -54,7 +56,7 @@ Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†
 <div class='paper-box-text' markdown="1">
 
 **Sim-DETR: Unlock DETR for Temporal Sentence Grounding**   
-Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†   
+Jiajin Tang\*, **Zhengxuan Wei\* **, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†   
 
 </div>
 </div>
@@ -63,7 +65,7 @@ Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Si
 <div class='paper-box-text' markdown="1">
 
 **Rethinking Query-based Transformer for Continual Image Segmentation**   
-Yuchen Zhu\*, Cheng Shi\*, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang†   
+Yuchen Zhu\*, Cheng Shi\*, Dingyou Wang, Jiajin Tang, **Zhengxuan Wei**, Yu Wu, Guanbin Li, Sibei Yang†   
 
 </div>
 </div>
