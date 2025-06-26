@@ -36,8 +36,6 @@ You can enable your scholar badge here if you have a scholar profile.
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
 Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†  
-*ICCV 2025*  
-
 
 </div>
 </div>
@@ -45,10 +43,9 @@ Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/TransLoop.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**
+**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**   
 Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†   
 *ICCV 2025*
-
 
 </div>
 </div>
@@ -56,10 +53,8 @@ Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/Sim-DETR.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sim-DETR: Unlock DETR for Temporal Sentence Grounding**
+**Sim-DETR: Unlock DETR for Temporal Sentence Grounding**   
 Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†   
-*ICCV 2025*
-
 
 </div>
 </div>
@@ -67,10 +62,8 @@ Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Si
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/rethinking.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Rethinking Query-based Transformer for Continual Image Segmentation**
+**Rethinking Query-based Transformer for Continual Image Segmentation**   
 Yuchen Zhu\*, Cheng Shi\*, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang†   
-*CVPR 2025*
-
 
 </div>
 </div>
