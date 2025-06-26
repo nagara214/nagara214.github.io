@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhengxuan Wei"
   avatar           : "images/head.png"
-  bio              : "Lorem ipsum College"
+  bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/nagara214"
   google_plus      :
   keybase          :
   instagram        :
