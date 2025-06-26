@@ -29,41 +29,50 @@ You can enable your scholar badge here if you have a scholar profile.
 
 
 # 📝 Publications
+(* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
 Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†  
-*International Conference on Computer Vision (ICCV), 2025*  
+*ICCV 2025*  
 
 
 </div>
 </div>
 
-- **Closed-Loop Transfer for Weakly-supervised Affordance Grounding**, Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†, *ICCV 2025.*
-- **Sim-DETR: Unlock DETR for Temporal Sentence Grounding**, Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†, *ICCV 2025.*
-- **Rethinking Query-based Transformer for Continual Image Segmentation**, Yuchen Zhu\*, Cheng Shi\*, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang†, *CVPR 2025.*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**
+Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†
+*ICCV 2025*
 
-- *2024.12* ShanghaiTech Outstanding Student
 
-# 💻 Research Projects
+</div>
+</div>
 
-- **Preserving Intra-Modal Consistency in Externally Guided Image Clustering**  
-  Developed a framework integrating external semantic guidance with internal feature consistency, enhancing clustering performance.
-- **Evaluation and Fine-Tuning of LLMs for Optimization Problem Transformation**  
-  Evaluated and fine-tuned large language models for transforming natural-language linear programming problems into mathematical formulations.
-- **Deep Learning for 3D Kidney Vessel Segmentation**  
-  Proposed a 2.5D Swin Transformer approach with multi-axis inference and edge pixel dropping to improve 3D segmentation.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Education
+**Sim-DETR: Unlock DETR for Temporal Sentence Grounding**
+Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Sibei Yang†, 
+*ICCV 2025*
 
-- *2022.09 – Present*, **B.Eng. in Computer Science and Technology**, ShanghaiTech University, China
 
-# 💬 Contact
+</div>
+</div>
 
-- Email: weizhx2022@shanghaitech.edu.cn
-- GitHub: [nagara214](https://github.com/nagara214)
-- Location: Shanghai, China
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Rethinking Query-based Transformer for Continual Image Segmentation**
+Yuchen Zhu\*, Cheng Shi\*, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang†
+*CVPR 2025.*
+
+
+</div>
+</div>
+
+
