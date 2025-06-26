@@ -31,7 +31,7 @@ You can enable your scholar badge here if you have a scholar profile.
 # 📝 Publications
 (* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/AMR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning**  
@@ -40,7 +40,7 @@ Zhengxuan Wei\*, Jiajin Tang\*, Sibei Yang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/TransLoop.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/TransLoop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Closed-Loop Transfer for Weakly-supervised Affordance Grounding**   
@@ -50,7 +50,7 @@ Jiajin Tang\*, Zhengxuan Wei\*, Ge Zheng, Sibei Yang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/Sim-DETR.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/Sim-DETR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-DETR: Unlock DETR for Temporal Sentence Grounding**   
@@ -59,7 +59,7 @@ Jiajin Tang\*, Zhengxuan Wei\*, Yuchen Zhu, Cheng Shi, Guanbin Li, Liang Lin, Si
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/rethinking.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/rethinking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rethinking Query-based Transformer for Continual Image Segmentation**   
