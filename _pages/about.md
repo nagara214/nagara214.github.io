@@ -47,7 +47,6 @@ You can enable your scholar badge here if you have a scholar profile.
 
 **Closed-Loop Transfer for Weakly-supervised Affordance Grounding**   
 Jiajin Tang\*, **Zhengxuan Wei**\*, Ge Zheng, Sibei Yang†   
-*ICCV 2025*
 
 </div>
 </div>
