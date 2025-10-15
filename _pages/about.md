@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at ShanghaiTech University (2022-2026), majoring in Computer Science and Technology. My current research interests are multimodal learning, large models and AIGC.
+I'm an undergraduate student majoring in Computer Science at ShanghaiTech University (2022-2026), advised by Prof. Sibei Yang. My current research interests are multimodal learning, large models and AIGC.
 
 Here is my [CV](/WeiZhengxuan_CV.pdf).
 
